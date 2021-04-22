@@ -1,0 +1,3 @@
+https://thecodacus.com/2017/01/30/opencv-face-recognition-python-part1/#comment-81
+https://thecodacus.com/2017/02/04/face-recognition-opencv-train-recognizer/
+https://thecodacus.com/2017/02/21/face-recognition-loading-recognizer/
